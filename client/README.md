@@ -6,6 +6,11 @@ To install, copy the **python** to a s60 device to the following path:
 C:\Data\
 `
 
+You will end up with something like this:
+
+![asdffjfj](https://user-images.githubusercontent.com/69375951/128440122-a54300e4-e658-464e-a9a1-a0b856675b52.png)
+
+
 ## Running the script
 
 To run the scripts, make sure bluetooth is enabled on both the client and server. For the s60 client, this is managed under the **Connectivity** options.
